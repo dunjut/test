@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"net/rpc"
 
+	"github.com/dunjut/test/rpc"
 	"github.com/dunjut/test/server"
 )
 

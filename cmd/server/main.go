@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 	"net/http"
-	"net/rpc"
 
+	"github.com/dunjut/test/rpc"
 	"github.com/dunjut/test/server"
 )
 
